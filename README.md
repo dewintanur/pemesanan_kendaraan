@@ -78,3 +78,7 @@ Aplikasi ini digunakan untuk mengelola pemesanan kendaraan milik dan sewaan peru
         Riwayat servis kendaraan
         Log aktivitas user
         Export laporan ke Excel (per tanggal)
+
+
+LINK GAMBAR ERD DAN ACTIVITY DIAGRAM
+https://drive.google.com/drive/folders/1kwmrsXPGUi9ombtGasJy4zHFGuMgs8Iw?usp=sharing
